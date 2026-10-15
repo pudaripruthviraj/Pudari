@@ -116,7 +116,7 @@ export const translations = {
     claimedBadge: 'Already Gifted with Love',
 
     // Guestbook
-    guestbookTitle: 'Subhakamankshalu - Blessings Guestbook',
+    guestbookTitle: 'Subhakankshalu - Blessings Guestbook',
     guestbookSub: 'Shower the newlyweds with your heartfelt prayers, warm wishes, and memories',
     writeBlessing: 'Write a Blessing',
     yourName: 'Your Name',
